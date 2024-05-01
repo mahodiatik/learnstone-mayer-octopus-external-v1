@@ -1,0 +1,8 @@
+Scrapy==2.6.1
+beautifulsoup4==4.11.1
+pyfunctional==1.4.3
+pydantic==1.10.4
+pyopenssl==22.0.0
+cryptography==38.0.4
+Twisted==22.10.0
+scrapy-playwright==0.0.33
